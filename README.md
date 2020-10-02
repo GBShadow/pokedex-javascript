@@ -27,8 +27,8 @@ depois só executar o arquivo index.html em seu navegador de preferência.
 Caso não use um editor de texto com plugin do live-server, você pode
 baixar o live-server com o comando: `npm install -g live-server`, e
 depois entrar na pasta com o app em desenvolvimento via terminal e
-executar o comando no terminal: `live-server`, quando o live-server 
-estiver executando toda alteração no codigo e ira recarregar sozinho,
+executar o comando no terminal: `live-server`, quando o live-server
+estiver executando toda alteração no código irá recarregar sozinho,
 ótimo para o desenvolvimento.
 
 ## Mais informações
