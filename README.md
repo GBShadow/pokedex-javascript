@@ -17,7 +17,7 @@ Em construção.
 ## Funcionalidades
 
 - Listar os 151 pokemons.
-- Mostrar detalhes de cada pokemon quando clicado. 
+- Mostrar detalhes de cada pokemon quando clicado. (pendente)
 
 ## Instruções
 
