@@ -14,6 +14,11 @@ Pokedex com os primeiros 151 pokemons da jornada de Kanto.
 
 Em construção.
 
+## Funcionalidades
+
+- Listar os 151 pokemons.
+- Mostrar detalhes de cada pokemon quando clicado. 
+
 ## Instruções
 
 Para testar basta clonar o repositório com o comando:
