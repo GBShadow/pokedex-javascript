@@ -78,7 +78,12 @@ h1 {
 }
 
 .poison {
-	background-color: #98d7a5;
+	background-color: #a684e8;
+	color: #FFF
+}
+
+.poison p {
+	color: #DDD;
 }
 
 .bug {
